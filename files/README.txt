@@ -1,0 +1,1 @@
+All the captured images will be in here
