@@ -24,7 +24,7 @@ Analyzes only the part of the picture that could be considered the sky.
 * Edit aurora_detector_settings.rb at your convinience
 
 ```ruby
-# to get the latitude and  longitude or your location:
+# to get the latitude and longitude of your location:
 # https://mynasadata.larc.nasa.gov/latitudelongitude-finder/
 LATITUDE = 64.126521
 LONGITUDE = -21.817439
