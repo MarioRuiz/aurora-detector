@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c717a3e-12fe-46f7-802f-3a36952c0e23" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aurora_detector_settings.rb" afterPath="$PROJECT_DIR$/aurora_detector_settings.rb" />
-    </list>
+    <list default="true" id="6c717a3e-12fe-46f7-802f-3a36952c0e23" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -286,12 +283,12 @@
       <workItem from="1521803098911" duration="13542000" />
       <workItem from="1522015772807" duration="2433000" />
       <workItem from="1522150652317" duration="25000" />
-      <workItem from="1522165903280" duration="1782000" />
+      <workItem from="1522165903280" duration="2010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17782000" />
+    <option name="totallyTimeSpent" value="18010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1182" extended-state="6" />
