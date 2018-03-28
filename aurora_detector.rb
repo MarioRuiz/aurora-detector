@@ -33,7 +33,7 @@ while true
 
       if picture_taken
         aurora_index = analyze_image('./files/image.jpg')
-        if aurora_index==:imposible
+        if aurora_index==:impossible
           file_name="image_#{Time.now().strftime("%y%m%d_%H%M%S")}.jpg"
           FileUtils.cp("./files/image.jpg", "./files/#{file_name}")
           alert("weird picture. Saved: #{file_name}")
